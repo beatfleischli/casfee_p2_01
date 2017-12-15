@@ -10,7 +10,7 @@ export const environment = {
     authDomain: "something",
     databaseURL: "something",
     projectId: "something",
-    storageBucket: "something,
+    storageBucket: "something",
     messagingSenderId: "something"
   }
 };
