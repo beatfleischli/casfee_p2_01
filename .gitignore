@@ -34,7 +34,7 @@ testem.log
 /typings
 
 # auth-data
-/src/environments
+/src/environments/*.ts
 .config.txt
 
 # e2e

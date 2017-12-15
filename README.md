@@ -14,8 +14,8 @@ color = {red, green, blue}
 size = {small, medium, large}
 text = 'anythingYouLike'
 ```
-To connect to firebase, you then have to set up the '/src/environments/environments.ts' with the parameters you get when you click in the 
-firebase console / Project Overview on button '</>' 'Add firebase to my Web-App'.
+To connect to firebase, you then have to rename the 'environments.ts.example' file in '/src/environments/' to 'environments.ts' and set it up with the parameters you get when you click in the 
+firebase console / Project Overview on the button '</>' ('Add firebase to my Web-App').
 
 ## Development server
 
